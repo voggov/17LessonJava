@@ -5,9 +5,9 @@ public class Main {
         folders.getDir();
         System.out.println("//////////////////////////////////////////////////////");
         folders.goIntoFolder("first");
-        folders.addFold("Jopa");
-        folders.addFile("Pizda");
-        folders.fileOpen("Pizda.file");
+        folders.addFold("Second");
+        folders.addFile("dfd");
+        folders.fileOpen("dfd.file");
         folders.getDir();
         System.out.println("//////////////////////////////////////////////////////");
         folders.goBack();
